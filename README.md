@@ -19,7 +19,8 @@ Now to train the model
  all the code is given in the notebook
 
 We implemented the model on a raspberry pi (3B)
-Set up your Raspberry pi and import the model file(.pkl) and the Rpi_code notebook to Raspberry pi
-Run the code to get live detection
+* Set up your Raspberry pi
+* import the model file(.pkl) and the Rpi_code notebook to Raspberry pi
+* Run the code to get live detection
 
 Thank you
