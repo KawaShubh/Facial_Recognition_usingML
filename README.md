@@ -9,7 +9,7 @@ First Step is creating your custom dataset:-
 * run the code
 
 Now to train the model
-** Open train_model noebook
+* Open train_model noebook
 * import all librariers
 *  Make sure the path to your custom dataset is set correctly
 *  Train the model
